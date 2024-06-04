@@ -1,2 +1,2 @@
 # Shopping-Cart
-A shopping cart website demo.
+A shopping cart website demo using Angular framework.
